@@ -1,0 +1,24 @@
+h1 {
+  font-size: 500%;
+  text-align: center;
+  border-style: solid;
+  border-width: 2px;
+  padding: 1em; 
+  margin: 1em;
+  }
+
+section {
+  font-size: 200%;
+  text-align: center;
+  padding: 0 0 9em 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  font-size: 75%
+}
+
