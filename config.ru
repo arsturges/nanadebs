@@ -2,6 +2,6 @@ require 'rubygems'
 require 'bundler'
 
 Bundler.require
-require 'home'
+require './home'
 
 run Sinatra::Application
